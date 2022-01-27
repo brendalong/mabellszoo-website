@@ -26,6 +26,7 @@ export const Header = () => {
 							</Button>
 							{/* <Button variant="primary" size="lg">
 								Google Play
+								https://play.google.com/store/apps/details?id=air.com.studio6thave.mabellszoo
 							</Button> */}
 						</div>
 						

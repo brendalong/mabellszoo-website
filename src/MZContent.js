@@ -88,7 +88,7 @@ export const MZContent = () => {
 						<blockquote>
 							<div className="stars" title="5 Stars"></div>
 							<p><span>"With vivid colors and easy to activate animations, <span>Mabell’s Zoo</span> not only provides a stimulating visual environment, but encourages counting 1-10."</span>
-								<span>theiPhoneMom</span>, <span>5</span> stars. <a href="http://www.theiphonemom.com/Detailed_App_Review-detail/mabells-zoo-review/" target="_blank">Read the full review</a>
+								<span>theiPhoneMom</span>, <span>5</span> stars. <a href="http://www.theiphonemom.com/Detailed_App_Review-detail/mabells-zoo-review/" target="_blank" rel="noreferrer">Read the full review</a>
 							</p>
 						</blockquote>
 					</div>
@@ -111,8 +111,8 @@ export const MZContent = () => {
 			<hr />
 			<Row>
 				<Col xs={12} md={6} lg={3} className="mz-review">
-					<p>Mabell's Zoo is included with <a href="http://awards.designforexperience.com/gallery/2013/experience-for-children/brenda-long-studio-6th-ave" target="_blank">The International Design for Experience Awards</a> - Experience for Children. This award recognizes digital products for children that deliver excellent value, engagement, and ease of use for their users.</p>
-					<p><a href="http://uxmag.com/articles/giving-kids-digital-experiences-they-can-really-use">Giving Kids Digital Experiences They Can Really Use | UX Magazine</a></p>
+					<p>Mabell's Zoo is included with <a href="http://awards.designforexperience.com/gallery/2013/experience-for-children/brenda-long-studio-6th-ave" target="_blank" rel="noreferrer">The International Design for Experience Awards</a> - Experience for Children. This award recognizes digital products for children that deliver excellent value, engagement, and ease of use for their users.</p>
+					<p><a href="http://uxmag.com/articles/giving-kids-digital-experiences-they-can-really-use" target="_blank" rel="noreferrer">Giving Kids Digital Experiences They Can Really Use | UX Magazine</a></p>
 
 				</Col>
 				<Col xs={12} md={6} lg={3} className="mz-review">

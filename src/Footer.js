@@ -7,15 +7,15 @@ export const Footer = () => {
 			<Container id="footer">
 				<Row>
 					<Col>
-						<p>For inquiries or support, please contact <a href="http://studio6thave.com/contact-brenda/" target="_blank">Studio6thAve</a> <br />
-							<a href="http://studio6thave.com/privacy-policy/" target="_blank">Mabell's Zoo Privacy Policy</a></p>
+						<p>For inquiries or support, please contact <a href="http://studio6thave.com/contact-brenda/" rel="noreferrer" target="_blank">Studio6thAve</a> <br />
+							<a href="http://studio6thave.com/privacy-policy/" target="_blank" rel="noreferrer">Mabell's Zoo Privacy Policy</a></p>
 					</Col>
 				</Row>
 				<hr />
 				<Row>
 					<Col>
 						<ul id="footer-links">
-							<li><a href="http://studio6thave.com" rel="noreferrer" title="http://studio6thave.com" target="_blank">
+							<li><a href="http://studio6thave.com"  rel="noreferrer" title="http://studio6thave.com" target="_blank">
 								<div className="webicon studio6thave"></div></a></li>
 							<li><a href="http://facebook.com/MabellsWorld" rel="noreferrer" title="http://facebook.com/MabellsWorld" target="_blank"><div className="webicon facebook"></div></a></li>
 
@@ -25,7 +25,7 @@ export const Footer = () => {
 				<hr />
 				<Row>
 					<Col>
-						<p>&copy; 2013-{new Date().getFullYear()}, Brenda Long with <a href="http://studio6thave.com">Studio6thAve</a></p>
+						<p>&copy; 2013-{new Date().getFullYear()}, Brenda Long with <a href="http://studio6thave.com" rel="noreferrer">Studio6thAve</a></p>
 					</Col>
 				</Row>
 			</Container>
