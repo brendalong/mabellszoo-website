@@ -52,11 +52,20 @@ blockquote p {
 	}
 
 	li span{
-		font-weight: 700;
-		color: $grey;
+		font-weight: bolder;
+		color: black;
 	}
 	.header-image {
 		width:100%;
+	}
+	.storebuttons {
+		text-align: center;
+		margin-top: 0.5rem;
+	}
+	button {
+		font-weight: bolder;
+    	font-family: 'Lato';
+    	color: white;
 	}
 }
 
